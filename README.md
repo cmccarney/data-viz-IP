@@ -12,8 +12,15 @@ Now since the Vox data product encompasses 17 different charts and various data 
 
 The Vox article also gives one reason to question the honesty of the information being presented. The article regularly switches between charts that use homicides and ones that use ‘gun deaths’. While it does make distinctions with suicides and shows that suicides account for a large portion of gun deaths, this lack of a clear path prevents really insightful and cogent arguments. 
 
+Overall, far more compelling might be for Vox to demonstrate, as FiveThirtyEight does here, https://fivethirtyeight.com/features/mass-shootings-are-a-bad-way-to-understand-gun-violence/, that gun deaths are varied in terms of primary victims, primary perpetrators, and primary intents. The last graph shows support for specific policies, and makes the argument that a piecewise approach to legislation will be more effective. The video Vox includes at the start of this article is actually a lot better than the article itself, because while showing that the prevalence of guns are the issue, it also makes clear that there is no "one" problem, but many problems requiring tailored solutions.
 
-#Intentionally Distorting the Data
+Revising some of the existing charts
+ 
+Chart 8 is not clear in its communication. It's a pseudo-heatmap of US states with additional gradient shading for which states have certainly safety laws. There does seem to be a bit of a trend, but the fact that there are states that buck that point and the fact that the differences aren't that dramatic really undercuts any point that is trying to be made.  Additionally, it's unclear how significant these differences really are. A total redesign of this chart will be needed.
+ 
+Chart 11 suggests more guns means more suicides. It's a simple chart but it's simplicity invites issues of honesty in the representation of the information. The fact that this is followed up by Chart 12 which is data on suicide attempts/fatalities for the state of Indiana for a 7 year period in the 1990s really jumps out as being suspicious for its ultra-specificity. More data will need to be uncovered to help address this gap in the information. Considering that suicides are such a large proportion of gun deaths, it seems like this is an area that would really have an outsized impact on the effectiveness of the entire data product.
+
+Intentionally Distorting the Data
 
 In any political debate this is really a time-honored tactic. Here are some ideas on how to implement this with the Vox product. 
 
